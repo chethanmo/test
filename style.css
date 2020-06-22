@@ -11,7 +11,7 @@
 @font-face {
     font-family: 'Garineldo';
     font-style: normal;
-    src: url('/fonts/Garineldo.otf') format("opentype");
+    src: url('./fonts/Garineldo.otf') format("opentype");
 }
 /*Resets*/
 
