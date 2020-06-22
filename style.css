@@ -212,6 +212,7 @@ img{
 }
 
 input[type="submit"] {
+    -webkit-appearance: none;
     background: var(--primary);
     color: white;
     box-shadow: 0 .55rem .5rem -.5rem var(--primary);
